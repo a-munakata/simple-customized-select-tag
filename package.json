@@ -1,0 +1,10 @@
+{
+  "name": "simple-customized-select-tag",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "x.x.x",
+    "grunt-contrib-connect": "x.x.x",
+    "grunt-contrib-livereload": "x.x.x",
+    "grunt-regarde": "x.x.x"
+  }
+}

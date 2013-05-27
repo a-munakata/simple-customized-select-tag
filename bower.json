@@ -1,0 +1,7 @@
+{
+  "name": "simple-customized-select-tag",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "x.x.x"
+  }
+}
